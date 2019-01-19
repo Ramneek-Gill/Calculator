@@ -1,3 +1,3 @@
-# Calculator
+# calculator
 Basic calculator with addition, subtraction, multiplication and division capabilities:
-https://ramneek-gill.github.io/Calculator/
+https://ramneek-gill.github.io/calculator/
